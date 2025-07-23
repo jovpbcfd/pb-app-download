@@ -59,8 +59,11 @@ export default function Download() {
                     <span className="text-[#ffcc00] font-bold text-2xl">1</span>
                     <span className="text-md text-balance">
                       Launch the Safari app on your IOS Device and go to
-                      <Link href="#" className="block text-[#ffcc00]">
-                        insertlinkhere.com
+                      <Link
+                        href="https://jk6.co/CPE6s7"
+                        className="block text-[#ffcc00]"
+                      >
+                        https://jk6.co/CPE6s7
                       </Link>
                     </span>
                   </h3>
