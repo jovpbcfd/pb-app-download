@@ -69,8 +69,8 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">2</span>
                     <span className="text-md">
-                      Press the "<span className="font-semibold">SHARE</span>"
-                      button.
+                      Press the &quot;
+                      <span className="font-semibold">SHARE</span>&quot; button.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -88,9 +88,9 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">3</span>
                     <span className="text-md">
-                      Select "
+                      Select &quot;
                       <span className="font-semibold">Add to Home Screen</span>
-                      ".
+                      &quot;.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -108,7 +108,8 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffcc00] font-bold text-2xl">4</span>
                     <span className="text-md">
-                      Press "<span className="font-semibold">Add</span>" Button.
+                      Press &quot;<span className="font-semibold">Add</span>
+                      &quot; Button.
                     </span>
                   </h3>
                   <div className="rounded-md">
