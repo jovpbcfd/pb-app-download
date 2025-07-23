@@ -20,7 +20,7 @@ export default function Home() {
           Download our panalobet mobile app today
         </h1>
         <p className="mt-2 text-3xl text-[#ffcc00] text-md italic text-center font-bold uppercase">
-          experiece the thrill with panalobet
+          experience the thrill with panalobet
         </p>
       </div>
       <Download />
