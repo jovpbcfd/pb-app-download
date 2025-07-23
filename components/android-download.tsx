@@ -50,7 +50,7 @@ export default function AndroidDownload() {
                 style={{ width: "100%", height: "auto" }}
               />
             </div>
-            <div className="rounded-md">
+            <div className="rounded-md mt-8">
               <Image
                 src="/img/play_button.png"
                 width={0}
@@ -61,7 +61,7 @@ export default function AndroidDownload() {
               />
             </div>
           </div>
-          <div className="py-5">
+          <div className="py-5 mt-4">
             <Link href="#">
               <Image
                 src="/img/android_button.png"
