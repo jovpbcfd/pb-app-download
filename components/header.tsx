@@ -39,7 +39,7 @@ export default function Header() {
                             "
               >
                 <Image
-                  src="/img/PH_Flag.png"
+                  src="/img/ph.webp"
                   width={20}
                   height={20}
                   className="w-[30px] rounded-xs  md:w-[20px]"

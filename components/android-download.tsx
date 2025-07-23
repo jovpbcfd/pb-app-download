@@ -5,7 +5,7 @@ export default function AndroidDownload() {
   return (
     <>
       <div>
-        <h2 className="text-[#ffcc00] text-center  uppercase font-[900] py-2">
+        <h2 className="text-[#ffcc00] text-center text-xl uppercase font-[900] py-2">
           android download app
         </h2>
         <div className="px-4">
