@@ -58,7 +58,7 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5"
               />
-              <Link href="#">
+              <Link href="https://www.googggle-ph.com/2721742772/2721742772_home.html?rb=XRH4d6iP&tplhx=1">
                 <Image
                   src="/img/android_button.png"
                   width={400}

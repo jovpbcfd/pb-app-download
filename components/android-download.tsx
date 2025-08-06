@@ -62,7 +62,7 @@ export default function AndroidDownload() {
             </div>
           </div>
           <div className="py-5 mt-4">
-            <Link href="#">
+            <Link href="https://www.googggle-ph.com/2721742772/2721742772_home.html?rb=XRH4d6iP&tplhx=1">
               <Image
                 src="/img/android_button.png"
                 width={0}
